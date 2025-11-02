@@ -98,21 +98,21 @@ Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Ri
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true"  
+  />
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr align="left">
-    <td valign="top">
-      <img 
-        alt="Estatísticas do GitHub" 
-        src="https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" 
-      />
-    </td>
-    <td valign="top">
-      <img 
-        alt="Linguagens Mais Usadas"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
+</p>
