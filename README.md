@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Rio Grande do SNorte. Atualmente, estou cursando Sistemas para Internet no IFRN Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mateus Gonçalves](https://www.youtube.com/channel/UCSSKAUyx6UklqKoNTEW9LEA)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev-carlos-mateus](https://www.instagram.com/dev_carlos_mateus)".
+Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Rio Grande do SNorte. Atualmente, estou cursando Sistemas para Internet no IFRN Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mateus Gonçalves](https://www.youtube.com/channel/UCSSKAUyx6UklqKoNTEW9LEA)", onde exponho meus projetos, e também através do Instagram, com o perfil chamado "[dev-carlos-mateus](https://www.instagram.com/dev_carlos_mateus)".
 
 <p align="left">
     <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.youtube.com/@Mateuscode)">
@@ -134,7 +134,7 @@ Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Ri
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=pie)](https://github.com/CarlosMateusDeveloper)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=pie&theme=transparent&hide_border=true"
 
   />
 
