@@ -4,23 +4,6 @@
 
 Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Rio Grande do SNorte. Atualmente, estou cursando Sistemas para Internet no IFRN Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mateus Gonçalves](https://www.youtube.com/channel/UCSSKAUyx6UklqKoNTEW9LEA)", onde exponho meus projetos, e também através do Instagram, com o perfil chamado "[dev-carlos-mateus](https://www.instagram.com/dev_carlos_mateus)".
 
-<p align="left">
-    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.youtube.com/@Mateuscode)">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> 
-    <a href="https://github.com/CarlosMateusDeveloper">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
