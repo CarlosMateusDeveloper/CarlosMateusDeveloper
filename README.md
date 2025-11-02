@@ -100,7 +100,7 @@ Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Ri
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
   <img 
     alt="Estatísticas do GitHub" 
     height="195" 
