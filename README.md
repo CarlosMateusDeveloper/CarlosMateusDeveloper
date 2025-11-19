@@ -90,17 +90,18 @@ Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Ri
 <br/>
 <br/>
  
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align:center; gap:5px;">
+<div align="center">
   <img
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true"
-    style="height:195px; width:auto; max-width:48%;"
+    height="195"
   />
   <img
     alt="Top Langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=tokyonight&hide_border=true"
-    style="height:195px; width:auto; max-width:45%;"
+    height="195"
   />
 </div>
+
 
 
