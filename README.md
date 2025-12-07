@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4f804eae-fe5e-4f42-a3f4-41a4a654a8ab" />
+
 
 
 **`Desenvolvedor FullStack`**
