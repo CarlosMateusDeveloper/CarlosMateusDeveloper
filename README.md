@@ -1,4 +1,4 @@
-<img width="2912" height="1264" alt="Gemini_Generated_Image_msa18emsa18emsa1" src="https://github.com/user-attachments/assets/b59c0383-6e3f-4751-bcad-3ced715cc511" />
+
 
 
 
@@ -89,6 +89,8 @@ Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Ri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
 
 <br/>
 <br/>
