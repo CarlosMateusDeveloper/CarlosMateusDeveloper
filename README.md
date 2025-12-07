@@ -6,16 +6,6 @@ Desenvolvedor Web — React | Python
 
 Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir soluções práticas e escaláveis. Trabalho com desenvolvimento web e tenho interesse em backend, automação e inteligência artificial aplicada.
 
-## 🛠️ Tecnologias
-
-* **Frontend:** React, TailwindCSS, HTML, CSS, Bootstrap
-* **Backend:** Node.js, C++
-* **Dados:** Python (Numpy, Pandas, Scikit-learn)
-* **Banco de Dados:** MySQL , PostgreSQL
-* **Outros:** Power BI, Git, Docker, Power automate
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -98,6 +88,9 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+
 
 ## 📊 Estatísticas
 
