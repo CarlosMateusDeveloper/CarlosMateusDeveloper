@@ -1,7 +1,7 @@
 **`Desenvolvedor FullStack`**
 # Mateus Gonçalves
 
-Desenvolvedor Web — React | Node.js | Python
+Desenvolvedor Web — React | Python
 ## 🚀 Sobre mim
 
 Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir soluções práticas e escaláveis. Trabalho com desenvolvimento web e tenho interesse em backend, automação e inteligência artificial aplicada.
@@ -10,7 +10,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 * **Frontend:** React, TailwindCSS, HTML, CSS, Bootstrap
 * **Backend:** Node.js, C++
-* * **Dados:** Python (Numpy, Pandas, Scikit-learn)
+* **Dados:** Python (Numpy, Pandas, Scikit-learn)
 * **Banco de Dados:** MySQL , PostgreSQL
 * **Outros:** Power BI, Git, Docker, Power automate
 
@@ -34,7 +34,8 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 ## 📬 Contato
 
 **Email:** [mateusdev33@gmail.com](mailto:mateusdev33@gmail.com)
-**Linkedin:** [mateusgoncalves](www.linkedin.com/in/carlosgoncalvesdev)
+**LinkedIn:** [mateusgoncalves](https://www.linkedin.com/in/carlosgoncalvesdev)
+
 
 
 ### 🤖 Linguagens e Tecnologias
