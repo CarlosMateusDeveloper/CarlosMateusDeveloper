@@ -16,28 +16,6 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img alt="GitHub Stats" src="https://gitmystat.vercel.app/api?username=CarlosMateusDeveloper" height="170" />
-</div>
-
----
-
-## 📂 Projetos em destaque
-* **Aplicações Web com React** – componentes modernos e responsivos.
-* **Dashboard com Power BI** – análise de dados com indicadores visuais.
-
-
----
-
-## 📬 Contato
-
-**Email:** [mateusdev33@gmail.com](mailto:mateusdev33@gmail.com)
-**LinkedIn:** [mateusgoncalves](https://www.linkedin.com/in/carlosgoncalvesdev)
-
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -120,6 +98,30 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://gitmystat.vercel.app/api?username=CarlosMateusDeveloper" height="170" />
+</div>
+
+---
+
+## 📂 Projetos em destaque
+* **Aplicações Web com React** – componentes modernos e responsivos.
+* **Dashboard com Power BI** – análise de dados com indicadores visuais.
+
+
+---
+
+## 📬 Contato
+
+**Email:** [mateusdev33@gmail.com](mailto:mateusdev33@gmail.com)
+**LinkedIn:** [mateusgoncalves](https://www.linkedin.com/in/carlosgoncalvesdev)
+
+
+
+
 
 
 
