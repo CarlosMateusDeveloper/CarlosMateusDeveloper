@@ -5,7 +5,47 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Mateus de Carvalho Gonçalves, tenho 23 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Sistemas para Internet no IFRN Parnamirim. Eu compartilho meu conhecimento através do meu canal no YouTube "[Mateus Gonçalves](https://www.youtube.com/channel/UCSSKAUyx6UklqKoNTEW9LEA)", onde exponho meus projetos, e também através do Instagram, com o perfil chamado "[dev-carlos-mateus](https://www.instagram.com/dev_carlos_mateus)".
+# Mateus Gonçalves
+
+Desenvolvedor Web — React | Node.js | Python
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir soluções práticas e escaláveis. Trabalho com desenvolvimento web e tenho interesse em backend, automação e inteligência artificial aplicada.
+
+---
+
+## 🛠️ Tecnologias
+
+* **Frontend:** React, TailwindCSS, HTML, CSS, Bootstrap
+* **Backend:** Node.js, Python (Numpy, Pandas, Scikit-learn)
+* **Banco de Dados:** MySQL
+* **Outros:** Power BI, Git, Docker
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://gitmystat.vercel.app/api?username=CarlosMateusDeveloper" height="170" />
+</div>
+
+---
+
+## 📂 Projetos em destaque
+
+* **Sistema de Monitoramento para Logística (Visão Computacional)** – protótipo focado em automação.
+* **Dashboard com Power BI** – análise de dados com indicadores visuais.
+* **Aplicações Web com React** – componentes modernos e responsivos.
+
+---
+
+## 📬 Contato
+
+**Email:** [mateusdevcontato@gmail.com](mailto:mateusdevcontato@gmail.com)
+
 
 ### 🤖 Linguagens e Tecnologias
 
