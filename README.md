@@ -9,9 +9,10 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 ## 🛠️ Tecnologias
 
 * **Frontend:** React, TailwindCSS, HTML, CSS, Bootstrap
-* **Backend:** Node.js, Python (Numpy, Pandas, Scikit-learn)
-* **Banco de Dados:** MySQL
-* **Outros:** Power BI, Git, Docker
+* **Backend:** Node.js, C++
+* * **Dados:** Python (Numpy, Pandas, Scikit-learn)
+* **Banco de Dados:** MySQL , PostgreSQL
+* **Outros:** Power BI, Git, Docker, Power automate
 
 ---
 
@@ -24,16 +25,16 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 ---
 
 ## 📂 Projetos em destaque
-
-* **Sistema de Monitoramento para Logística (Visão Computacional)** – protótipo focado em automação.
-* **Dashboard com Power BI** – análise de dados com indicadores visuais.
 * **Aplicações Web com React** – componentes modernos e responsivos.
+* **Dashboard com Power BI** – análise de dados com indicadores visuais.
+
 
 ---
 
 ## 📬 Contato
 
-**Email:** [mateusdevcontato@gmail.com](mailto:mateusdevcontato@gmail.com)
+**Email:** [mateusdev33@gmail.com](mailto:mateusdev33@gmail.com)
+**Linkedin:** [mateusgoncalves](www.linkedin.com/in/carlosgoncalvesdev)
 
 
 ### 🤖 Linguagens e Tecnologias
