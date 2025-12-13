@@ -110,6 +110,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 ## 📬 Contato
 
 **Email:** [mateusdev33@gmail.com](mailto:mateusdev33@gmail.com)
+<br/>
 **LinkedIn:** [mateusgoncalves](https://www.linkedin.com/in/carlosgoncalvesdev)
 
 
