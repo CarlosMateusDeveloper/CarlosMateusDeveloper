@@ -94,9 +94,8 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img alt="GitHub Stats" src="https://gitmystat.vercel.app/api?username=CarlosMateusDeveloper" height="170" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
