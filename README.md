@@ -94,8 +94,8 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=donut&theme=dark)](https://github.com/CarlosMateusDeveloper/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&card_width=420)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&card_width=420)
 
 ---
 
