@@ -93,7 +93,21 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 
 ## 📊 Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=donut-vertical&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&border_color=58a6ff)](https://github.com/CarlosMateusDeveloper/github-readme-stats)
+<p align="left">
+  <img
+    src="https://dummyimage.com/420x300/0d1117/58a6ff&text=Welcome+to+my+GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=donut-vertical&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&hide_border=true"
+    width="420"
+  />
+</p>
+
+
+
+
+
+
 
 
 
