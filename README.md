@@ -1,7 +1,7 @@
 **`Desenvolvedor FullStack`**
 # Mateus Gonçalves
 
-Desenvolvedor Web — React | Python
+Desenvolvedor Fullstack — React | Python
 ## 🚀 Sobre mim
 
 Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir soluções práticas e escaláveis. Trabalho com desenvolvimento web e tenho interesse em backend, automação e inteligência artificial aplicada.
