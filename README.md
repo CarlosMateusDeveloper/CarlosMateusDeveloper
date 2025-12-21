@@ -147,7 +147,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 ## 📂 Projetos em destaque
 * **Aplicações Web com React** – componentes modernos e responsivos.
-* **Dashboard com Power BI** – análise de dados com indicadores visuais.
+* **Dashboard e analise de dados com Power BI e Python** – análise de dados com indicadores visuais.
 
 
 ---
