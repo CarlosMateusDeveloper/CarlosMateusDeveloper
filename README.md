@@ -1,10 +1,10 @@
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor de automações`**
 # Mateus Gonçalves
 
 Desenvolvedor de automações e sistemas web 
 ## 🚀 Sobre mim
 
-Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir soluções práticas e escaláveis. Trabalho com desenvolvimento web e tenho interesse em backend, automação e inteligência artificial aplicada.
+Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com dados, IA e desenvolvimento web e tenho interesse em oportunidades que trabalhem com backend, automação e inteligência artificial aplicada.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -133,6 +133,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 ## 📂 Projetos em destaque
 * **Aplicações Web com React** – componentes modernos e responsivos.
+* **Automações de planilhas excel** 
 * **Dashboard e analise de dados com Power BI e Python** – análise de dados com indicadores visuais.
 
 
