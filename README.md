@@ -4,7 +4,7 @@
 Desenvolvedor de automações e sistemas web 
 ## 🚀 Sobre mim
 
-Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com dados, IA e desenvolvimento web e tenho interesse em oportunidades que trabalhem com backend, automação e inteligência artificial aplicada.
+Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com dados, IA e desenvolvimento web e ofereço serviços que envolvem automação e inteligência artificial aplicada.
 
 ### 🤖 Linguagens e Tecnologias
 
