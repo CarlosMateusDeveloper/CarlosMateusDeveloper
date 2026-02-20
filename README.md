@@ -113,16 +113,17 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 ## 📊 Estatísticas
 
     
- <table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&show_icons=true&theme=radical" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
+ <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=radical&cache_seconds=1800" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="180em"
+  />
+</p>
+
 
 
 ---
