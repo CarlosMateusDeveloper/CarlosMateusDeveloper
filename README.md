@@ -111,9 +111,6 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 * **Automações de planilhas excel** 
 * **Dashboard e analise de dados com Power BI e Python** – análise de dados com indicadores visuais.
 
-
----
-
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusdev33@gmail.com)
