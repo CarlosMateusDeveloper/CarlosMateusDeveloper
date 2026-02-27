@@ -105,9 +105,6 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 />
 
           
-          
-
-<br/>
 
 ## 📂 Projetos em destaque
 * **Aplicações Web com React** – componentes modernos e responsivos.
