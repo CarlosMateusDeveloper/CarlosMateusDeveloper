@@ -109,25 +109,6 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
 
 <br/>
 
-
-## 📊 Estatísticas
-
-    
- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMateusDeveloper&layout=compact&theme=radical&cache_seconds=1800" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=CarlosMateusDeveloper&show_icons=true&theme=radical&cache_seconds=1800" 
-    height="180em"
-  />
-</p>
-
-
-
----
-
 ## 📂 Projetos em destaque
 * **Aplicações Web com React** – componentes modernos e responsivos.
 * **Automações de planilhas excel** 
