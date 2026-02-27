@@ -104,7 +104,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-          
+ <br/>         
 
 ## 📂 Projetos em destaque
 * **Aplicações Web com React** – componentes modernos e responsivos.
