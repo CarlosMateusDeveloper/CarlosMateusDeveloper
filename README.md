@@ -107,7 +107,7 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
  <br/>         
 
 ## 📂 Projetos em destaque
-* **Aplicações Web com React** – componentes modernos e responsivos.
+* **CRM de gestão de leads para integradores** – componentes modernos e responsivos.
 * **Automações de planilhas excel** 
 * **Dashboard e analise de dados com Power BI e Python** – análise de dados com indicadores visuais.
 
