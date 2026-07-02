@@ -4,7 +4,7 @@
 Desenvolvedor de automações e sistemas web 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor fullstack em formação no IFRN, atuo no desenvolvimento de soluções que melhorem a vida das pessoas, faço automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com desenvolvimento web, IA e análise de dados.
+Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) no IFRN, atuo no desenvolvimento de software e em soluções que melhorem a vida das pessoas, faço automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com desenvolvimento web, IA e análise de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
