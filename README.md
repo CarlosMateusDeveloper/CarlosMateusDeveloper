@@ -120,6 +120,13 @@ Sou desenvolvedor fullstack em formação no IFRN, atuo no desenvolvimento de so
   </a>
 
 
+### Estatísticas
+| ![Carlos Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosMateusDeveloper&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMateusDeveloper&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMateusDeveloper&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMateusDeveloper&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=CarlosMateusDeveloper&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
 <br/>
 <br/>
 
