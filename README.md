@@ -4,7 +4,7 @@
 Desenvolvedor de automações e sistemas web 
 ## 🚀 Sobre mim
 
-Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em construir automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com dados, IA e desenvolvimento web e ofereço serviços que envolvem automação e inteligência artificial aplicada.
+Sou desenvolvedor fullstack em formação no IFRN, atuo no desenvolvimento de soluções que melhorem a vida das pessoas, faço automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com desenvolvimento web, IA e análise de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -107,9 +107,9 @@ Sou estudante de Sistemas para Internet (IFRN) e desenvolvedor focado em constru
  <br/>         
 
 ## 📂 Projetos em destaque
-* **CRM de gestão de leads para integradores** – componentes modernos e responsivos.
-* **Automações de planilhas excel** 
-* **Dashboard e analise de dados com Power BI e Python** – análise de dados com indicadores visuais.
+* **CRM de gestão de leads para integradores de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
+* **Automações com Python** 
+* **ERP para Clinicas** – gestão de consultas em tempo real.
 
 ## 📬 Contato
 
