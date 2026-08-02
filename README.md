@@ -27,16 +27,6 @@ Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) n
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 
-
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
-/>
-
 <img 
     align="left" 
     alt="HTML"
@@ -107,9 +97,9 @@ Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) n
  <br/>         
 
 ## 📂 Projetos em destaque
-* **CRM de gestão de leads para integradores de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
-* **Automações com Python** 
-* **ERP para Clinicas** – gestão de consultas em tempo real.
+* **CRM de vendas de paineis solares e monitoramento de usinas de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
+* **Pipeline de automações financeiras com Python** 
+* **ClincOS** – Sistema de gestão para clinicas e hospitais.
 
 ## 📬 Contato
 
