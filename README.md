@@ -100,6 +100,7 @@ Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) n
 * **CRM de vendas de paineis solares e monitoramento de usinas de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
 * **Pipeline de automações financeiras com Python** 
 * **ClincOS** – Sistema de gestão para clinicas e hospitais.
+* * **Jesus Protocol** – ecossistema de proveniência digital com foco em autenticação de midia.
 
 ## 📬 Contato
 
