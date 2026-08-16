@@ -1,10 +1,9 @@
-**`Desenvolvedor de automações`**
 # Mateus Gonçalves
 
 Desenvolvedor de automações e sistemas web 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) no IFRN, atuo no desenvolvimento de software e em soluções que melhorem a vida das pessoas, faço automações que economizem, tempo, dinheiro e trabalho humano. Trabalho com desenvolvimento web, IA e análise de dados.
+Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) no IFRN, Não atuo apenas como desenvolvedor de software, mas desenvolvo focando em fazer melhor que a concorrência, crio diferenciais.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -97,9 +96,9 @@ Sou desenvolvedor fullstack cursando Tecnólogo em Sistemas para Internet(TSI) n
  <br/>         
 
 ## 📂 Projetos em destaque
-* **CRM de vendas de paineis solares e monitoramento de usinas de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
-* **Pipeline de automações financeiras com Python** 
-* **ClincOS** – Sistema de gestão para clinicas e hospitais.
+* **Sistema de vendas de paineis solares e monitoramento de usinas de energia solar** – Automações, dashboard e plataforma de gestão de negócio.
+* **Pipeline de automação de dados para um sistema de controle financeiro** 
+* **ClinicOS** – Sistema de gestão para clinicas e hospitais.
 * **Jesus Protocol** – ecossistema de proveniência digital com foco em autenticação de midia.
 
 ## 📬 Contato
